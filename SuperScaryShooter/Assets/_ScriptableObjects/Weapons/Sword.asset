@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61d7ceb07ed4286478bf4a10cf745d44, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  Name: Fire Sword
+  Cooldown: 1
+  StayTime: 0.5
+  Offset: 1
+  Direction: 4
+  Rarity: 0
+  Effects: {fileID: 6644897522894668603, guid: 2d7a0353396953540b359f358c7cc893, type: 3}
+  CanAttack: 0
+  RawValue: 10
+  FinalValue: 80
+  Element: 2
+  RawElementValue: 100
+  SecondaryElementalValue: 5
